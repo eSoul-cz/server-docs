@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="esh" name="eSoul server help"
+                  start-page="Server-info.md">
+
+    <toc-element topic="Server-info.md">
+        <toc-element toc-title="Služby">
+            <toc-element topic="Adminer.md" />
+            <toc-element topic="Scaleway.md" />
+            <toc-element topic="Nginx-UI.md" />
+            <toc-element topic="Komodo.md" />
+            <toc-element topic="Mailcow.md" />
+            <toc-element topic="Jenkins.md" />
+            <toc-element topic="Grafana.md" />
+            <toc-element topic="Open-telemetry.md" />
+        </toc-element>
+    </toc-element>
+    <toc-element toc-title="Návody">
+        <toc-element topic="Nasazení-nového-WP-webu.md" />
+    </toc-element>
+</instance-profile>
